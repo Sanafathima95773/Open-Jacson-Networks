@@ -60,5 +60,7 @@ else:
 print("----------------------------------------------------------------------")
 ```
 ## Output
+![image](https://github.com/Sanafathima95773/Open-Jacson-Networks/assets/147084627/e2d67be5-7f19-44ef-8306-f53c13085c31)
+
 
 ## Result
